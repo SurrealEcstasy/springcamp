@@ -8,6 +8,6 @@ using namespace std;
 
 int main() {
     fastio;
-    cout << "hello world ";
+    cout << "hello spring camp ";
     return 0;
 }
