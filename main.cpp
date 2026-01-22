@@ -8,7 +8,11 @@ using namespace std;
 
 int main() {
     fastio;
-    cout << "PClub ka tempo high hai!!\n ";
+    cout << "PClub ka tempo high hai!!\n";
     cout<<"*\n**\n***\n****";
+
+    cout << "\nI am enjoying Spring Camp 2026!\n";
+    cout << "First day was really fun!, looking forward to more activities.\n";
+
     return 0;
 }
