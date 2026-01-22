@@ -12,7 +12,7 @@ int main() {
     cout<<"*\n**\n***\n****";
 
     cout << "\nI am enjoying Spring Camp 2026!\n";
-    cout << "First day was really fun!, looking forward to more activities.\n";
+    cout << "First day was really fun!, looking forward to the next sessions.\n";
 
     return 0;
 }
